@@ -9,3 +9,8 @@ ports:
     port: 4040
     visibility: public
     onOpen: ignore
+
+github:
+    prebuilds:
+      # enable for the main branch
+      main: true
