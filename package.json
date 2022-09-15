@@ -12,8 +12,10 @@
     "deploy": "shopify app deploy"
   },
   "dependencies": {
+    "@shopify/admin-ui-extensions-react": "^1.0.1",
     "@shopify/app": "^3.12.0",
-    "@shopify/cli": "^3.12.0"
+    "@shopify/cli": "^3.12.0",
+    "react": "^17.0.0"
   },
   "author": "isaac"
 }
