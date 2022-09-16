@@ -1,0 +1,8 @@
+{
+  "infiniteLoopProtection": true,
+  "hardReloadOnChange": false,
+  "view": "terminal",
+  "template": "node",
+  "disableLogging": false,
+  "port": 4040
+}
