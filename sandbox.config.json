@@ -4,5 +4,6 @@
   "view": "terminal",
   "template": "node",
   "disableLogging": false,
-  "port": 4040
+  "port": 4040,
+  "startScript": "yarn install && yarn build"
 }

@@ -2,7 +2,7 @@
 .env
 
 # Dependency directory
-node_modules
+#node_modules
 
 # Test coverage directory
 coverage
@@ -29,5 +29,5 @@ web/database.sqlite
 # Partners can use npm, yarn or pnpm with the CLI.
 # We ignore lock files so they don't get a package manager mis-match
 # Without this, they may get a warning if using a different package manager to us
-yarn.lock
+#yarn.lock
 package-lock.json
